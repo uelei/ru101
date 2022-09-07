@@ -27,7 +27,7 @@
 - Hashing index
 - Big-O
 
-[Week 2 abbitations](week2/week2.md)
+[Week 2 annotations](week2/week2.md)
 
 
 ### Week 3  
