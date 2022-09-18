@@ -40,3 +40,10 @@
 - PUB/SUB
 
 [Week 4 annotations](week4/week4.md)
+
+### Week 5  
+
+- Geospacial
+- Lua scripting
+
+[Week 5 annotations](week5/week5.md)
